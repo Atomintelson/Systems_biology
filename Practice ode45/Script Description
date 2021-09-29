@@ -1,2 +1,2 @@
-odefun - GNU octave script containing the system of differential equations
-Test_Main - Main GNU octave script containing initial conditions and function odefun
+odefun.m - GNU octave script containing the system of differential equations
+Test_Main.m - Main GNU octave script containing initial conditions and function odefun
