@@ -1,0 +1,2 @@
+RatSim.m - GNU octave script containing the system of differential equations and the parameter values
+MainSim.m - Main GNU octave script containing initial conditions and function ode45. The curves are plotted through this script
