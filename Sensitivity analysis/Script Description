@@ -1,0 +1,3 @@
+Main.m- Main GNU octave script containing the data points retrrieved from literature and the code for sensitivity analysis. The final comparison graphs arre plotted through this script.
+kinetics5.m - GNU octave script containing the system of differential equations and the initial conditions.
+RatParam_Final.m - GNU octave script containing the parameter values (both, to be estimated and constant).
