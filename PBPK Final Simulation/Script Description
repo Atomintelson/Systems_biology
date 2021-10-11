@@ -1,0 +1,5 @@
+Final.m - Main GNU octave script containing the data points retrieved from literature and the function calling kinetics5.m. The final graph for AmB profile in plasma is plotted through this script.
+kinetics5.m - GNU octave script containing the system of differential equations and the initial conditions.
+RatParam_Final.m - GNU octave script containing the final optimized parameter values (both, to be estimated and constant).
+RatSim.m- GNU octave script containing the system of differential equations and the parameter values.
+MainSim.m - Main GNU octave script containing initial conditions and function ode45. The final curves for AmB profile in Liver, kidney, spleen, heart, lung and Gastrointestinal tract are plotted through this script.
